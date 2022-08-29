@@ -15,7 +15,7 @@
 <div> 
   <a href="https://www.instagram.com/dev.vini17/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.com/channels/@V1N1#2741" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "https://mail.google.com/mail/u/0/#inbox?compose=CllgCJqXxbvzJfDtXJmMBbnxTTQbNgdgbzrdmKNgwWhPCRwdJSLjCdvqFLCvWLGlXPvjmrgkjXq"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:jose.vinicius.batista292@gmail.com?subject=Oq%20o%20Sr(a)%20Deseja"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jose-vin%C3%ADcios-batista-dos-santos-bb11a0209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 ![snake gif](https://github.com/Vinicius2J/Vinicius2J/blob/output/github-contribution-grid-snake.svg)
